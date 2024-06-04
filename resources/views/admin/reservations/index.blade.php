@@ -270,9 +270,7 @@
                 month: 'short',
                 year: 'numeric'
             });
-            document.getElementById("detailPeople").innerHTML = reservation.number_of_people;
             document.getElementById("detailTime").innerHTML = reservation.time;
-            document.getElementById("detailTable").innerHTML = `Meja ${reservation.table_number}`;
             document.getElementById("detailNotes").innerHTML = reservation.notes || 'Tidak ada catatan';
 
 
