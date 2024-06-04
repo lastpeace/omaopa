@@ -56,10 +56,6 @@
                             </th>
                             <th scope="col"
                                 class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                                Meja
-                            </th>
-                            <th scope="col"
-                                class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                                 Tanggal
                             </th>
                             <th scope="col"
@@ -89,8 +85,6 @@
                             <tr>
                                 <td class="px-14 py-4 whitespace-nowrap text-sm text-gray-900">
                                     {{ $reservation->id }}</td>
-                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">Meja
-                                    {{ $reservation->table_number }}</td>
                                 <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
                                     {{ \Carbon\Carbon::parse($reservation->date)->isoFormat('DD MMM YYYY') }}</td>
                                 <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{{ $reservation->time }}</td>
@@ -187,12 +181,6 @@
                                         class="justify-center items-start px-4 py-3 text-slate-700 rounded-lg border border-slate-700">
                                     </div>
                                 </div>
-                                <div class="w-1/2 p-2">
-                                    <div class="self-start mt-2 text-xs text-black">Jumlah orang</div>
-                                    <div id="detailPeople"
-                                        class="justify-center items-start px-4 py-3 text-slate-700 rounded-lg border border-slate-700">
-                                    </div>
-                                </div>
                                 <div class="w-full p-2">
                                     <div class="self-start mt-1.5 text-xs text-black">Catatan</div>
                                     <div id="detailNotes"
@@ -202,12 +190,6 @@
                                 <div class="w-1/2 p-2">
                                     <div class="self-start text-xs text-black">Jam</div>
                                     <div id="detailTime"
-                                        class="justify-center items-start px-4 py-3 text-slate-700 rounded-lg border border-slate-700">
-                                    </div>
-                                </div>
-                                <div class="w-1/2 p-2">
-                                    <div class="self-start mt-2 text-xs text-black">Meja</div>
-                                    <div id="detailTable"
                                         class="justify-center items-start px-4 py-3 text-slate-700 rounded-lg border border-slate-700">
                                     </div>
                                 </div>
