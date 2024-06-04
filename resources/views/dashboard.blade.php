@@ -165,18 +165,19 @@
                         <div class="flex flex-col items-end self-end max-w-full w-[397px]">
                             <div class="text-3xl font-semibold">Temukan Kami Di Sini</div>
                             <div class="self-stretch mt-11 max-md:mt-10">
-                                Alamat: Jalan Merdeka No. 123, Semarang, Jawa Tengah 12345
+                                Alamat: Jalan Mr. Koesbiyono Tjondrowibowo No 3, Sekaran, Kec. Gunung Pati, Kota Semarang,
+                                Jawa Tengah 50228
                             </div>
                             <div class="mt-12 font-medium max-md:mt-10">
-                                Jam Operasional Mono Cafe
+                                Jam Operasional Oma Opa
                             </div>
                             <div class="mt-6">
-                                Senin - Jumat: 08.00 - 22.00 WIBSabtu - Minggu: 09.00 - 23.00 WIB
+                                Senin - Minggu: 08.00 - 21.00 WIB
                             </div>
                         </div>
                         <div class="mt-16 max-md:mt-10 max-md:max-w-full">
                             Kami dengan senang hati menantikan kunjungan Anda untuk merasakan
-                            pengalaman menyantap sajian luar biasa di Mono Cafe
+                            pengalaman menyantap sajian luar biasa di Oma Opa
                         </div>
                     </div>
                 </div>

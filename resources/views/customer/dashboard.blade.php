@@ -134,31 +134,22 @@
                 <div class="flex flex-col ml-5 w-[63%] max-md:ml-0 max-md:w-full" id="tentangkami">
                     <div
                         class="self-stretch my-auto text-lg font-light text-justify text-black max-md:mt-10 max-md:max-w-full">
-                        <span class="font-medium">Selamat datang di Mono Cafe!</span>
+                        <span class="font-medium">Selamat datang di Oma Opa!</span>
                         <br />
                         <br />
-                        Kami adalah destinasi yang mengutamakan kenyamanan dan kenikmatan
-                        kuliner. Di Mono Cafe, kami menawarkan suasana yang cozy dan nyaman,
-                        cocok untuk bersantai sendiri atau berkumpul dengan orang-orang
-                        terkasih.
+                        Kami adalah outlet yang menjual bolu Ogura dan Malmil. Kami menawarkan berbagai macam menu pilihan
+                        bolu
+                        lembut dengan topping sesuai selera anda dan tentunya dengan harga yang terjangkau.
                         <br />
                         <br />
-                        Ruang kami didesain dengan teliti untuk menciptakan tempat yang
-                        menginspirasi dan menyenangkan. Dari furnitur yang nyaman hingga
-                        dekorasi yang menawan, setiap sudut Mono Cafe menghadirkan suasana
-                        yang mengundang dan menyenangkan.
+
+                        Nikmati berbagai pilihan menu bolu lembutnya, mulai dari malmil cheese hingga berbagai variasi
+                        topping malmil dan ogura lainnya.
+                        Kami juga menyediakan minuman dingin menemani anda ketika sedang antri menunggu pesanan.
                         <br />
                         <br />
-                        Nikmati berbagai pilihan snack dan makanan setiap hari, mulai dari
-                        roti gurih hingga berbagai macam olahan nasi yang lezat. Kami juga
-                        menyediakan kopi berkualitas tinggi dan minuman non kopi lainnya untuk
-                        menemani pengalaman bersantap Anda. Dari kopi spesial hingga minuman
-                        segar, semua ada di Mono Cafe untuk memuaskan berbagai selera.
-                        <br />
-                        <br />
-                        Staf kami yang ramah dan penuh perhatian siap memberikan layanan
-                        terbaik, sehingga setiap kunjungan ke Mono Cafe menjadi pengalaman
-                        kuliner yang istimewa dan tak terlupakan.
+                        Staf kami yang ramah dan penuh perhatian siap memberikan layanan terbaik, sehingga setiap kunjungan
+                        ke Oma Opa menjadi pengalaman kuliner yang istimewa dan tak terlupakan.
                     </div>
                 </div>
             </div>
@@ -174,18 +165,19 @@
                         <div class="flex flex-col items-end self-end max-w-full w-[397px]">
                             <div class="text-3xl font-semibold">Temukan Kami Di Sini</div>
                             <div class="self-stretch mt-11 max-md:mt-10">
-                                Alamat: Jalan Merdeka No. 123, Semarang, Jawa Tengah 12345
+                                Alamat: Jalan Mr. Koesbiyono Tjondrowibowo No 3, Sekaran, Kec. Gunung Pati, Kota Semarang,
+                                Jawa Tengah 50228
                             </div>
                             <div class="mt-12 font-medium max-md:mt-10">
-                                Jam Operasional Mono Cafe
+                                Jam Operasional Oma Opa
                             </div>
                             <div class="mt-6">
-                                Senin - Jumat: 08.00 - 22.00 WIBSabtu - Minggu: 09.00 - 23.00 WIB
+                                Senin - Minggu: 08.00 - 21.00 WIB
                             </div>
                         </div>
                         <div class="mt-16 max-md:mt-10 max-md:max-w-full">
                             Kami dengan senang hati menantikan kunjungan Anda untuk merasakan
-                            pengalaman menyantap sajian luar biasa di Mono Cafe
+                            pengalaman menyantap sajian luar biasa di Oma Opa
                         </div>
                     </div>
                 </div>
