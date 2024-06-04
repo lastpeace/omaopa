@@ -114,9 +114,9 @@
                                 </div>
 
                             </div>
-                            <div class="bg-black rounded-[50px] w-[504px] w-full">
+                            <div class="bg-yellow-300 rounded-[50px] w-[504px] w-full">
                                 <button type="submit"
-                                    class="flex justify-center items-center self-center px-16 py-5  font-medium text-white text-center  w-full">
+                                    class="flex justify-center items-center self-center px-16 py-5  font-medium text-black text-center  w-full">
                                     Lanjut Pembayaran
                                 </button>
                             </div>

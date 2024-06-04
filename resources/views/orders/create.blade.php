@@ -26,7 +26,7 @@
     <div class="text-2xl font-semibold px-4 py-4">Menu</div>
     <div class="w-full flex flex-col md:flex-row-reverse">
         <div class="w-full md:w-[347px] px-4 py-2 mt-4 md:mt-0">
-            <button id="semuaBtn" class="w-40 h-[42px] bg-black text-white rounded-[50px] mb-2 md:mb-0">Semua</button>
+            <button id="semuaBtn" class="w-40 h-[42px] bg-yellow-300 text-black rounded-[50px] mb-2 md:mb-0">Semua</button>
             <button id="minumanBtn"
                 class="w-40 h-[42px] bg-gray-200 text-zinc-600 rounded-[50px] mb-2 md:mb-0">Malmil</button>
             <button id="makananBtn" class="w-40 h-[42px] bg-gray-200 text-zinc-600 rounded-[50px] mb-2 md:mb-0">Ogura</button>
@@ -53,7 +53,7 @@
                                         <div>
                                             <button
                                                 onclick="addToCart('{{ $product->id }}', '{{ asset('storage/images/' . $product->image) }}', '{{ $product->name }}', {{ $product->price }})"
-                                                class="px-4 py-3 bg-indigo-700 text-white rounded-full">{{ __('Tambahkan') }}</button>
+                                                class="px-4 py-3 bg-yellow-300 text-black rounded-full">{{ __('Tambahkan') }}</button>
                                         </div>
                                     </div>
                                 </div>
@@ -84,8 +84,8 @@
                                 onsubmit="updateCartInput()">
                                 @csrf
                                 <input type="hidden" name="cart" id="cartInput">
-                                <div class="bg-black text-white flex justify-center items-center rounded-full">
-                                    <button type="submit" class="px-6 py-3 mt-5 text-white rounded-full">Proceed to
+                                <div class="bg-yellow-300 text-black flex justify-center items-center rounded-full">
+                                    <button type="submit" class="px-6 py-3 mt-5 text-black rounded-full">Proceed to
                                         Reservation</button>
                                 </div>
                             </form>

@@ -142,7 +142,7 @@
                         <div class="self-end mt-0" id="totalPayment">
                         </div>
                     </div>
-                    <div class="justify-center items-center self-center px-16 py-5 mt-5 max-w-full text-lg font-medium text-center text-white bg-black rounded-[50px] w-[447px] max-md:px-5"
+                    <div class="justify-center items-center self-center px-16 py-5 mt-5 max-w-full text-lg font-medium text-center text-black bg-yellow-300 rounded-[50px] w-[447px] max-md:px-5"
                         onclick="openModal()">
                         Bayar Sekarang
                     </div>

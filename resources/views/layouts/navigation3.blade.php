@@ -16,7 +16,7 @@
                                     <p class="w-[40%]"><a href="{{ route('customer.dashboard') }}">Beranda</a></p>
                                 </div>
                                 <div class="w-[40%]"><a href="{{ route('products.index') }}">Menu</a></div>
-                                <div class="w-[40%]"><a href="{{ route('orders.create') }}">Reservasi</a></div>
+                                <div class="w-[40%]"><a href="{{ route('orders.create') }}">Pesanan</a></div>
                                 <div class="w-[40%]">
                                     <a href="{{ route('customer.dashboard') }}#tentangkami">Tentang Kami</a>
                                 </div>
