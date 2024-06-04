@@ -35,7 +35,7 @@
                         </button>
                     </div>
                     <div class="flex font-semibold text-3xl max-md:mt-10 max-md:ml-2.5">Masuk</div>
-                    <div class="mt-4">Untuk pengalaman lebih baik di Mono Cafe.</div>
+                    <div class="mt-4">Untuk pengalaman lebih baik di Oma Opa.</div>
                     <!-- Session Status -->
 
                     <div class="justify-center flex-col flex text-center item-center">
