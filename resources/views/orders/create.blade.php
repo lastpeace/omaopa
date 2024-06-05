@@ -23,7 +23,7 @@
         }
     </style>
 
-    <div class="text-2xl font-semibold px-4 py-4">Menu</div>
+    <div class="text-2xl font-medium px-4 py-4">Menu</div>
     <div class="w-full flex flex-col md:flex-row-reverse">
         <div class="w-full md:w-[347px] px-4 py-2 mt-4 md:mt-0">
             <button id="semuaBtn" class="w-40 h-[42px] bg-yellow-300 text-black rounded-[50px] mb-2 md:mb-0">Semua</button>

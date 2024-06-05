@@ -34,7 +34,7 @@
             Menu Terpopuler !!
         </div>
         <div class="mt-7 text-lg text-center text-stone-200 w-[592px] max-md:max-w-full">
-            Rasakan kelezatan terpopuler dari Mono Cafe dengan sensasi tak
+            Rasakan kelezatan terpopuler dari Oma Opa dengan sensasi tak
             tertandingkan.
         </div>
         <div class="mt-16 mb-2.5 w-full max-w-[1253px] max-md:mt-10 max-md:max-w-full">
@@ -198,7 +198,7 @@
                         class="flex flex-col justify-center self-stretch my-auto text-lg text-justify text-white max-md:mt-10">
                         <div><a href="#">Beranda</a></div>
                         <div class="mt-7"><a href="{{ route('products.index') }}">Menu</a></div>
-                        <div class="mt-7"><a href="{{ route('orders.create') }}">Reservasi</a></div>
+                        <div class="mt-7"><a href="{{ route('orders.create') }}">Pesanan</a></div>
                         <div class="mt-7"><a href="#tentangkami">Tentang Kami</a></div>
                         <div class="mt-6"><a href="#kontak">Kontak</a></div>
                     </div>
