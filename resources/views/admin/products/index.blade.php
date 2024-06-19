@@ -88,7 +88,13 @@
                                         style="width: 70px; height: auto;">
                                 </td>
                                 <td class="border px-4 py-2 text-center">{{ $product->price }}</td>
-                                <td class="border px-4 py-2 text-center">{{ $product->type }}</td>
+                                <td class="border px-4 py-2 text-center">
+                                    @if ($product->type == 'makanan')
+                                        ogura
+                                    @elseif($product->type == 'minuman')
+                                        malmil
+                                    @endif
+                                </td>
                                 <td class="border px-4 py-2 text-center">
                                     <span
                                         class="px-2 py-1 rounded @if ($product->status_label == 'Tersedia') bg-green-100 text-green-500
